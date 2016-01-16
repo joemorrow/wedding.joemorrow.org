@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Claire Long -- Bride -- @orangeclaire
+    Joe Morrow -- Groom -- @joemorrow
+
+# THANKS
+
+    Tom McGrath, TC McGrath Photography
+    Marty Regan, Print Design
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

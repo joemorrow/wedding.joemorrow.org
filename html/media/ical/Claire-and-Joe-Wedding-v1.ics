@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+X-WR-CALNAME:Claire and Joe's Wedding
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+DTSTAMP:20140408T175249Z
+UID:20140408T175249Z-175775453@marudot.com
+DTSTART;TZID=America/Los_Angeles:20141011T170000
+DTEND;TZID=America/Los_Angeles:20141011T220000
+SUMMARY:Claire and Joe's Wedding
+LOCATION:Soda Rock Winery\, 8015 California 128\, Healdsburg\, CA 95448
+URL;VALUE=URI:http://wedding.joemorrow.org/
+END:VEVENT
+END:VCALENDAR
